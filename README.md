@@ -10,7 +10,7 @@ Interested in Behavioral Economics and Looking for a PhD position.
 - 🏃 Dancing / Martial Art
 - 🍻 Travelling / Baking / Playing the piano.
 
-My github has four repository:
+My github has four functional repositorys:
 
 I use Statistics to comb through the statistics theory, and R_codes, Stata_codes, Python_codes to save the projects I write in those languages.
 
