@@ -1,5 +1,5 @@
 ### Hi there, I am Ke Li and you could also refer me as Coco 👋
-Interested in Regional Economics, Economic Geography, and GIS. Looking for a PhD position. My linkin profile: https://www.linkedin.com/in/ke-li-5682821b1/
+Interested in Regional Economics, Economic Geography, and Industrial Economics. Looking for a PhD position. My linkin profile: https://www.linkedin.com/in/ke-li-5682821b1/
 
 
 - ⚡ R / Stata / Python
