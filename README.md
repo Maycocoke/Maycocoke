@@ -2,7 +2,7 @@
 Interested in Regional Economics, Economic Geography, and Industrial Economics. Looking for a PhD position. My linkin profile: https://www.linkedin.com/in/ke-li-5682821b1/
 
 
-- ⚡ R / Stata / Python
+- ⚡ R / Stata / Python / SQL
 - 🖋 Graduate student of Statistics in NUS Science, bacherlor of Statistics in NJU Math
 - ✍️ Statistics / Statistical Learning / Deep Learning / Economics
 - 🏃 Martial Art / Baking / Building with LEGO / Viewing maps
